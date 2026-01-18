@@ -1,0 +1,11 @@
+Metric,Baseline (No Cache),Optimized (With Cache),Improvement
+Average Latency (ms),1781.08,228.89,87.1%
+P50 Latency (ms),1781.08,199.17,88.8%
+P95 Latency (ms),1870.13,382.98,79.5%
+P99 Latency (ms),1959.19,661.18,66.3%
+Cache Hit Rate (%),0.0,99.2,+99.2pp
+Cost per Query ($),$0.0015,$0.0000,99.2%
+Daily Cost (10K queries),$15.00,$0.12,99.2%
+Monthly Cost (300K queries),$450.00,$3.60,99.2%
+Throughput (queries/sec),0.56,4.37,677.8%
+System Availability (%),99.5,99.9,+0.4pp

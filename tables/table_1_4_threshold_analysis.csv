@@ -1,0 +1,7 @@
+Threshold,Est. Hit Rate (%),Est. Latency (ms),Est. Cost ($),Est. Accuracy (%),Trade-off
+0.7,44.6,1082.59,$0.8304,75.0,"High hit rate, lower accuracy"
+0.75,39.7,1160.20,$0.9048,79.0,Good
+0.8,34.7,1237.81,$0.9792,83.0,Optimal balance
+0.85,29.8,1315.42,$1.0536,87.0,Good
+0.9,24.8,1393.03,$1.1280,91.0,"Lower hit rate, higher accuracy"
+0.95,19.8,1470.64,$1.2024,95.0,"Lower hit rate, higher accuracy"

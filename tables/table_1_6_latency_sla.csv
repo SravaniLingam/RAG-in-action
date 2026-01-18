@@ -1,0 +1,7 @@
+Percentile,Latency (ms),Target SLA (ms),User Experience,Compliance,Improvement vs Baseline
+P50,199.17,< 100,Excellent,✗ Exceeded,88.8%
+P75,223.41,< 200,Very Good,✗ Exceeded,87.5%
+P90,335.70,< 500,Good,✓ Met,81.2%
+P95,382.98,< 1000,Acceptable,✓ Met,78.5%
+P99,661.18,< 2500,Degraded,✓ Met,62.9%
+Max,3079.17,< 5000,Poor,✓ Met,-72.9%

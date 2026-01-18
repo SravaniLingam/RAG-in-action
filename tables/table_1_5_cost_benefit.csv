@@ -1,0 +1,15 @@
+Cost Component,Baseline,Optimized
+Infrastructure,,
+"  - Redis Cloud (1GB, managed)",N/A,$15
+"  - Compute (API server, 2 vCPU)",$50,$50
+  - Monitoring (Prometheus/Grafana),N/A,$10
+  - Load Balancer,N/A,$10
+Operational,,
+  - LLM API Calls,$450.00,$3.60
+  - Embedding Generation,$20,$25
+  - Data Transfer,$5,$10
+Total Monthly Cost,$525.00,$123.60
+Baseline Monthly Cost,$525.00,$525.00
+Net Monthly Savings,$0.00,$401.40
+ROI (First Month),N/A,892%
+Break-Even Time,N/A,< 1 week

@@ -1,0 +1,44 @@
+Q: How do I reset my password?
+A: To reset your password, navigate to the login page and click "Forgot Password". Enter your registered email address, and we'll send you a password reset link valid for 24 hours. Click the link in the email and follow the instructions to create a new password.
+
+Q: What's the process for password recovery?
+A: Password recovery is simple: go to our login page, select "Forgot Password", enter your email, and check your inbox for a reset link. The link expires in 24 hours for security purposes.
+
+Q: How do I update my billing information?
+A: To update billing details, log into your account, navigate to Settings > Billing, and click "Update Payment Method". You can add new cards, update existing ones, or set a default payment method.
+
+Q: What are your business hours?
+A: Our customer support team is available Monday through Friday, 9 AM to 6 PM Eastern Time. We're closed on weekends and major holidays. For urgent issues outside business hours, email support@example.com.
+
+Q: How do I cancel my subscription?
+A: To cancel your subscription, go to Settings > Subscription > Cancel Subscription. You'll retain access until the end of your current billing period. No partial refunds are provided for mid-cycle cancellations.
+
+Q: Can I get a refund?
+A: We offer full refunds within 30 days of purchase if you're not satisfied with our service. After 30 days, cancellations take effect at the end of the billing period without refunds. Contact support@example.com to request a refund.
+
+Q: How do I upgrade my account?
+A: To upgrade, navigate to Settings > Subscription > Change Plan, select your desired tier (Pro or Enterprise), and complete the checkout process. Upgrades take effect immediately, and you'll be charged a prorated amount.
+
+Q: What plans do you offer?
+A: We offer three plans: Free (limited features), Pro ($29/month with advanced analytics and 10K queries), and Enterprise ($99/month with unlimited queries, dedicated support, and custom integrations).
+
+Q: Is there a free trial?
+A: Yes, we offer a 14-day free trial of our Pro plan. No credit card required. After the trial, you can choose to upgrade or continue with the free tier.
+
+Q: How do I contact sales?
+A: Reach our sales team at sales@example.com, call 1-800-EXAMPLE during business hours (9 AM-6 PM ET, Monday-Friday), or schedule a demo through our website at example.com/demo.
+
+Q: Is my data secure?
+A: Yes, we use industry-standard AES-256 encryption for data at rest and TLS 1.3 for data in transit. We're SOC 2 Type II certified and undergo annual security audits. Your data is never shared with third parties.
+
+Q: How do I delete my account?
+A: To permanently delete your account, go to Settings > Account > Delete Account. This action is irreversible and erases all your data within 30 days. Download any important data before deletion.
+
+Q: Do you offer student discounts?
+A: Yes, students receive 50% off Pro plans. Verify your student status through our education portal at example.com/students using your .edu email address or student ID.
+
+Q: How do I export my data?
+A: You can export your data at any time from Settings > Data > Export. We provide exports in CSV, JSON, and PDF formats. Large exports may take up to 24 hours to process.
+
+Q: What happens if I exceed my query limit?
+A: Free plan users are limited to 1,000 queries/month. If you exceed this limit, you'll receive a notification and need to upgrade to Pro ($29/month for 10K queries) or purchase additional query packs.

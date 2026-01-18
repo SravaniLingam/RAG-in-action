@@ -1,0 +1,12 @@
+Parameter,Value,Justification
+Redis Version,Redis Stack 7.2,Latest stable version with vector search support
+Cache Type,Semantic Cache (Vector-based),Enables semantic similarity matching beyond exact matches
+Embedding Model,text-embedding-3-small (OpenAI),Balance of performance and cost; sufficient for semantic matching
+Embedding Dimensions,1536,Standard dimensionality for text-embedding-3-small model
+Distance Metric,Cosine Distance,Industry standard for vector similarity calculation
+Similarity Threshold,0.80,Optimal balance between hit rate and accuracy (validated empirically)
+TTL (Time-To-Live),86400 seconds (24 hours),Balances freshness with cache efficiency for FAQ-style queries
+LLM Model,gpt-3.5-turbo (OpenAI),Cost-effective option with good quality for customer support
+LLM Temperature,0 (deterministic),"Ensures consistent, reproducible responses"
+Max Tokens,500,Adequate for typical customer support responses
+Cost per Query (LLM),$0.0015,Standard pricing for gpt-3.5-turbo as of 2025
